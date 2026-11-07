@@ -18,8 +18,6 @@ Alunas: Larissa Vitória (553875) e Maria Cecília (553577)
 
 ## Sobre o projeto
 
-Projeto desenvolvido durante a disciplina de Visualização de Dados da Universidade Federal do Ceará.
-
 A análise estima o quão longe a população de Fortaleza está dos serviços públicos de saúde. Para cada setor censitário, calcula-se a distância até a UBS, a UPA e o hospital do SUS mais próximos, em linha reta e pela malha viária. Também se avalia a carga de cada unidade e como o acesso se distribui entre faixas de renda. A intenção é produzir uma aplicação interativa que permita explorar os dados e simular o impacto de novas unidades de saúde.
 
 ## Principais características
