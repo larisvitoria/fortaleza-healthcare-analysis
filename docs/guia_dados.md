@@ -1,12 +1,6 @@
 <img alt="Logo da Universidade Federal do Ceará" src="../assets/logo-ufc.svg">
 
-# **Projeto Computacional: Quem está longe do cuidado?**
-
-**Graduação — Visualização de Dados (CK0266) · 2026.2**
-
-Departamento de Computação · Prof.ª Dr.ª Emanuele Marques Rodrigues Santos
-
-## **Guia dos dados pré-processados**
+# **Guia dos dados pré-processados**
 
 Este guia tem o objetivo de orientar quem vai consumir os arquivos de saída, gerados pela etapa de pré-processamento. Ele descreve o conteúdo de cada arquivo, o significado das colunas, as chaves de junção e os cuidados de interpretação. Os números de referência citados (contagens, limiares) valem para a versão atual dos dados e estão em `metadados.json`.
 
